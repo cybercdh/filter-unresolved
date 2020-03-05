@@ -11,7 +11,7 @@ Usage example:
 Install:
 
 ```
-▶ go get github.com/cybercdh/filter-unresolved
+▶ go get -u github.com/cybercdh/filter-unresolved
 ```
 
 # credit
